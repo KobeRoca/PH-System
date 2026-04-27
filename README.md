@@ -29,19 +29,6 @@ It provides secure authentication, employee management, history tracking, and fu
 
 ---
 
-## 📂 Project Structure
-PH-System/
-├── add_employee.php
-├── dashboard.php
-├── login.php
-├── index.php
-├── db.php
-├── history.php
-├── update_employee.php
-├── delete_employee.php
-├── upload_file.php
-└── ...
-
 ---
 
 ## ⚙️ How to Run the Project
